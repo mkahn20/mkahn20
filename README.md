@@ -3,6 +3,13 @@
 I have researched and published on using Variational Autoencoders in Federated Learning, adapting to the MovieLens dataset's spatial traits. 
 Also interested in edge computing optimization on multi-core based hardware like NPUs.
 
+💻Paper💻
+
+Federated Learning with Variational Autoencoder for Popularity Profile PredictionFederated Learning with Variational Autoencoder for Popularity Profile Prediction
+
+International Conference on ICT Convergence 2023. Oct. 13rd.
+
+https://drive.google.com/file/d/1r1bmpuKuqB6fE08srhQvcXcIGvY-M0-d/edit
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
