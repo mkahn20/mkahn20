@@ -1,5 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Minkyun's%20GitHub&fontSize=70&animation=scaleIn)
-
+https://capsule-render.vercel.app/api?
+type=waving&				
+color=0:ed9d0b,100:f94001&		
+height=180&				
+section=header&				
+text=Minkyun's%20GitHub%20👋&		
+fontSize=32&				
+animation=fadeIn&			
+fontAlignY=36&				
+fontColor=ffffff			
 
 I have researched and published on using Variational Autoencoders in Federated Learning, adapting to the MovieLens dataset's spatial traits. 
 Also interested in edge computing optimization on multi-core based hardware like NPUs.
