@@ -17,7 +17,7 @@ Federated Learning with Variational Autoencoder for Popularity Profile Predictio
 International Conference on ICT Convergence 2023. Oct. 13rd.
 
 https://drive.google.com/file/d/1r1bmpuKuqB6fE08srhQvcXcIGvY-M0-d/edit
-
+https://ieeexplore.ieee.org/document/10392552
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
