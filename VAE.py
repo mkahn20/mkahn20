@@ -5,11 +5,11 @@ import torch.nn.functional as F
 
 class VAE(nn.Module):
     def __init__(self):
-        input_size = 300  # 입력 벡터 크기
-        hidden_size = 256  # 은닉층 크기
-        latent_size = 32  # 잠재 변수 크기
-        num_categories = 300  # 이산 확률 분포의 카테고리 수
-        temperature = 15  # Gumbel-Softmax relaxation의 온도 매개변수
+        input_size = 300
+        hidden_size = 256
+        latent_size = 32
+        num_categories = 300
+        temperature = 15
 
         super(VAE, self).__init__()
         self.hidden_size = hidden_size
